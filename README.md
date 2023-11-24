@@ -20,7 +20,6 @@ python hcl.py
 # Generate Dataset
 1. Prepare soil images
 2. Ensure operation Predict and Post-process
-3.
 ```python
 python touming.py
 ```
